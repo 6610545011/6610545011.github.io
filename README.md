@@ -8,4 +8,4 @@
 
 ## Picture
 
-![Picture](assets\WIN_20250821_20_01_08_Pro.jpg "Sarankorn")
+![Picture](assets/WIN_20250821_20_01_08_Pro.jpg "Sarankorn")
