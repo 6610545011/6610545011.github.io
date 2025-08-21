@@ -6,6 +6,6 @@
 - **Major:** Computer  
 - **Hobby:** Reading
 
-## Profile
+## Picture
 
-![Profile Picture](https://via.placeholder.com/150)
+![Picture](assets\WIN_20250821_20_01_08_Pro.jpg "Sarankorn")
